@@ -1,1 +1,3 @@
 # Customer_Churn_Analysis_Report-Business-Inteligence
+
+This project identifies why customers are leaving (churning) and predicts who is likely to churn in the future. The process starts with data collection and cleaning using Excel, followed by data transformation and querying in SQL. The cleaned data is visualized through Power BI dashboards showing churn rate, customer demographics, and usage patterns. For prediction, a Machine Learning model is trained to classify customers as "churn" or "no churn" based on behavior and profile features. This end-to-end project helps businesses make data-driven retention strategies.
